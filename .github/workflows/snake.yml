@@ -1,0 +1,20 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite UTC
+
+  workflow_dispatch:  # Permite rodar manualmente pelo Actions
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: "projetosguerra"
+          outputs: "github-contribution-grid-snake.svg"
+      - uses: actions/upload-artifact@v2
+        with:
+          name: snake-animation
+          path: github-contribution-grid-snake.svg
