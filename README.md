@@ -2,7 +2,7 @@
 
 🎓 **Atualmente estudando**: Análise e Desenvolvimento de Sistemas na **USCS**.
 💻 **Formado em**: Informática para Internet na **ETEC**.
-🚀 **Apaixonado por tecnologia**, desenvolvimento full-stack e inovação.
+🚀 **Apaixonado por tecnologia**, Desenvolvimento Full-Stack e Inovação.
 🌱 **Sempre aprendendo** sobre Flutter, Firebase, JavaScript, SQL e muito mais!
 
 ---
@@ -18,6 +18,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
@@ -39,4 +40,4 @@
 ## 📫 Como me encontrar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pietroguerra)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((www.github.com/projetosguerra/).
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](www.github.com/projetosguerra/).
