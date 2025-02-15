@@ -31,11 +31,9 @@
 
 ---
 
-![Snake animation](https://github.com/projetosguerra/projetosguerra/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Como me encontrar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pietroguerra)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](www.github.com/projetosguerra/)
+
+![Snake animation](https://github.com/projetosguerra/projetosguerra/blob/output/github-contribution-grid-snake.svg)
