@@ -1,39 +1,40 @@
-### 👋 Olá, eu sou o Pietro!
+### Olá, eu sou Pietro Guerra 👋
 
-🎓 **Atualmente estudando**: Análise e Desenvolvimento de Sistemas na **USCS**.
-💻 **Formado em**: Informática para Internet na **ETEC**.
-🚀 **Apaixonado por tecnologia**, Desenvolvimento Full-Stack e Inovação.
-🌱 **Sempre aprendendo** sobre Flutter, Firebase, JavaScript, SQL e muito mais!
+**Desenvolvedor Full-Stack | .NET, React, TypeScript & SQL Server**
 
----
+Atuo no desenvolvimento de software corporativo, com foco na construção de arquiteturas escaláveis e resolução de problemas complexos de negócio. Minha vivência em operações de suporte de infraestrutura me trouxe uma visão pragmática: desenvolvo códigos limpos, resilientes e pensados para a estabilidade em produção.
 
-## 🚀 Minhas Tecnologias
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- 🔭 **Foco Atual:** Refatoração e arquitetura de ecossistemas corporativos (ex: evolução estrutural do QueryHub).
+- 🌱 **Aprimorando:** Clean Architecture, Domain-Driven Design (DDD) e boas práticas de engenharia de software.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (USCS).
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 💻 Stack Principal
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+### 📊 Produtividade e Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projetosguerra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetosguerra&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetosguerra&layout=compact&langs_count=5&theme=radical&hide=html,css,jupyter%20notebook,dart,php"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/projetosguerra/projetosguerra/output/dist/github-contribution-grid-snake.svg" alt="Snake animation graph" />
 </div>
 
 ---
 
-## 📫 Como me encontrar?
+### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pietroguerra)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](www.github.com/projetosguerra/)
-
-![Snake animation](https://github.com/projetosguerra/projetosguerra/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietroguerra)
