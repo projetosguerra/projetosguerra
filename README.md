@@ -2,9 +2,9 @@
 
 # Pietro Guerra
 
-### Full-Stack Developer | .NET • React • TypeScript • SQL[cite: 2]
+### Full-Stack Developer | .NET • React • TypeScript • SQL
 
-Building business applications, automation tools, and scalable software solutions.[cite: 2]
+Building business applications, automation tools, and scalable software solutions.
 
 <a href="https://www.linkedin.com/in/pietroguerra">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,22 +20,22 @@ Building business applications, automation tools, and scalable software solution
 
 ## About Me
 
-I'm a Full-Stack Developer focused on building web applications, internal tools, and business-driven software solutions.[cite: 2]
+I'm a Full-Stack Developer focused on building web applications, internal tools, and business-driven software solutions.
 
-Currently, I'm expanding my expertise in Software Engineering, Clean Architecture, Domain-Driven Design (DDD), and scalable application design while working primarily with .NET, React, TypeScript, and SQL.[cite: 2]
+Currently, I'm expanding my expertise in Software Engineering, Clean Architecture, Domain-Driven Design (DDD), and scalable application design while working primarily with .NET, React, TypeScript, and SQL.
 
-My goal is to create software that solves real business problems and delivers measurable value.[cite: 2]
+My goal is to create software that solves real business problems and delivers measurable value.
 
 ---
 
-## Current Focus[cite: 2]
+## Current Focus
 
-* Backend Development with C# and .NET[cite: 2]
-* Frontend Development with React and TypeScript[cite: 2]
-* SQL and Database Design[cite: 2]
-* Software Architecture[cite: 2]
-* Clean Architecture & DDD[cite: 2]
-* Business Applications & Internal Tools[cite: 2]
+* Backend Development with C# and .NET
+* Frontend Development with React and TypeScript
+* SQL and Database Design
+* Software Architecture
+* Clean Architecture & DDD
+* Business Applications & Internal Tools
 
 ---
 
